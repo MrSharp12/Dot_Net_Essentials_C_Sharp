@@ -1,0 +1,6 @@
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\bin\Debug\02_Reference_Types.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\bin\Debug\02_Reference_Types.pdb
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\obj\Debug\02_Reference_Types.csprojAssemblyReference.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\obj\Debug\02_Reference_Types.csproj.CoreCompileInputs.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\obj\Debug\02_Reference_Types.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\02_Reference_Types\obj\Debug\02_Reference_Types.pdb

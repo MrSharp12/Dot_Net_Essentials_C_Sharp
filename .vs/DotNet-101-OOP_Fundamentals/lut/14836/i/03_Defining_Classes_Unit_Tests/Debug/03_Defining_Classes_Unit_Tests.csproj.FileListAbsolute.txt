@@ -1,0 +1,8 @@
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\03_Defining_Classes_Unit_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\03_Defining_Classes_Unit_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\03_Defining_Classes_Unit_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\03_Defining_Classes_Unit_Tests\bin\Debug\03_Defining_Classes_Unit_Tests.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\03_Defining_Classes_Unit_Tests\Debug\03_Defining_Classes_Unit_Tests.csproj.CoreCompileInputs.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\03_Defining_Classes_Unit_Tests\Debug\03_Defining_Classes_Unit_Tests.csproj.CopyComplete
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\03_Defining_Classes_Unit_Tests\Debug\03_Defining_Classes_Unit_Tests.dll
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\03_Defining_Classes_Unit_Tests\Debug\03_Defining_Classes_Unit_Tests.csprojAssemblyReference.cache

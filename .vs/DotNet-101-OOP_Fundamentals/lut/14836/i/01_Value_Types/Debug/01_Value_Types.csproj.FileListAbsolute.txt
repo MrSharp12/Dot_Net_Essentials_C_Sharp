@@ -1,0 +1,6 @@
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\01-Value_Types\bin\Debug\01-Value_Types.exe.config
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\b\01-Value_Types\bin\Debug\01-Value_Types.exe
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\01_Value_Types\Debug\01_Value_Types.csprojAssemblyReference.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\01_Value_Types\Debug\01_Value_Types.csproj.CoreCompileInputs.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\01_Value_Types\Debug\01_Value_Types.csproj.CopyComplete
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\01_Value_Types\Debug\01-Value_Types.exe

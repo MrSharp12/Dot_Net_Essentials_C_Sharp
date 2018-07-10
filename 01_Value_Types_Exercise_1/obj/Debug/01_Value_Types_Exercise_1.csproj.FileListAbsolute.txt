@@ -1,0 +1,7 @@
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\bin\Debug\01_Value_Types_Exercise_1.exe.config
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\bin\Debug\01_Value_Types_Exercise_1.exe
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\bin\Debug\01_Value_Types_Exercise_1.pdb
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\obj\Debug\01_Value_Types_Exercise_1.csprojAssemblyReference.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\obj\Debug\01_Value_Types_Exercise_1.csproj.CoreCompileInputs.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\obj\Debug\01_Value_Types_Exercise_1.exe
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\01_Value_Types_Exercise_1\obj\Debug\01_Value_Types_Exercise_1.pdb

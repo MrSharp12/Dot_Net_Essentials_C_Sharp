@@ -1,0 +1,2 @@
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\05_OOP_Inheritance_Exercise_2\Debug\05_OOP_Inheritance_Exercise_2.csprojAssemblyReference.cache
+C:\Users\A218010\Documents\Visual Studio 2017\Projects\DotNet-101-OOP_Fundamentals\.vs\DotNet-101-OOP_Fundamentals\lut\0\i\05_OOP_Inheritance_Exercise_2\Debug\05_OOP_Inheritance_Exercise_2.csproj.CoreCompileInputs.cache
